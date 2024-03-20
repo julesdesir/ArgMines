@@ -1,0 +1,167 @@
+0. RESULTS 3.1.
+1. Effects of Plastic Bags on Infaunal Diversity, Assemblage Composition, and Structure.
+2. All bags were still in situ when collected, and no immediate signs of degradation nor fragmentation were observed.
+3. A total of 14 different groups of infaunal invertebrates were identified within the top S cm sediment layer.
+4. The total numbers of individuals (N) were significantly lower beneath plastic bags compared to in control plots (One-way ANOVA, F 55, = 48.97, P < 0.001), but similar numbers of individuals were found under the biodegradable and conventional bags (Table 1).
+5. Sediment beneath biodegradable and conventional bags had on average 6.2 and 6.4 times fewer individuals compared to that of control plots, but species richness (number of species, S$) and Shannon—Wiener diversity (H') was not significantly different from that found in control plots (Table 1).
+6. The most abundant taxa were Nematoda (potworms), Capitella capitata (gallery worm), Hydrobia ulvae (mudsnails), and Chironomidae DOI: 10.1021/acs.est.5b00277 Environ.
+7. Sci. Technol. 2015, 49, 5380-5389  Environmental Science & Technology | Article | Number of Different Species (S), and Shannon-Wiener Diversity Index (H') of Invertebrates Found within the Top 5 cm Layer in Plain Sediment (control), Underneath Conventional Bags (conv), and Underneath Biodegradable Bags (bio)*
+8. treatment N Ss H' control 38.8 x 10'+54xX 744 0.2* 1.105 + 0.085* 10°* conv 6.0 X,10°
+9. 69+04 1.288 + 0.087* 10° bio 62 x,10° +79X 68404" 1.242 + 0.050* 10° ANOVA F = 48.97, P< 0.001 F=0.85, F = 156, P = 0.439 P = 0.229 df, = 2, R=071 R?
+10. = 0.06 R?
+11. = 0.10 df, = 27° "Values are means + standard error of the mean, n = 10.
+12. Different superscript letters indicate significant differences between treatments at P < 0.05 based on separate Tukey tests.
+13. "df, and df, are degrees of freedom for the numerators and denominators of the F-statistic, respectively.
+14. (midge) larvae which, although numerically dominant in all treatments, were less abundant beneath bags compared to control plots (Figure 1).
+15. Furthermore, more individuals of Carcinus maenas (green shore crab) were found under bags compared to within control plots, but the abundances overall were low (Figure 1).
+16. 30000 2) Controt BE Conventional 1 Biodegradable 25000 20000 15000 10000 Abundance (individuals 0.25 m") 5000  0 2 0
+17. LS» OP 2 PCS S ge se ee Xe Sr Ce rr)
+18. = cS ee ie ¥ eS
+19. so S e) ear o as & o& eg © ef Invertebrate identity (control), underneath conventional and biodegradable plastic bags.
+20. Values are means + sem, n 10.
+21. Asterisks indicate significant difference between treatments, with *** P < 0.001, ** P < 0.01, and * P< 0.05.
+22. The right half of the data set is represented by the right y axis.
+23. There were significant differences (one-way PERMANOVA, Fy, = 6.95, P < 0.001) between infaunal assemblage structures (based on abundance data of each group identified).
+24. Specifically, assemblages beneath the biodegradable and conventional bags were similar to each other (Fis = 1.27, P = 0.302.)
+25. but significantly different from that in the control plots (control vs biodegradable: F,,3 = 15.78, P < 0.001; control vs conventional: F,,3 = 13.26, P < 0.001).
+26. This is 5383 visualized by nMDS ordination (Figure 2a) and supported by    similarity percentage (simper) analysis.
+27. Lesser abundances o!
+28. a) 2D stress: 0.149 4 a Q 9 oo @
+29. °
+30. A o @ AA g
+31. A @ @ o
+32. A A @
+33. A @
+34. A @
+35. Beta-dispersion: F,,= 2.39, P = 0.148 PerMANOVA: R?
+36. = 0.41, F,9,= 6.95, P < 0.001 b) 2D stress: 0.123
+37. A a) 4 a B @
+38. A a @
+39. Beta-dispersion: F,2= 3.65, P = 0.047 PerMANOVA: R= 0.15, Fy, 2.02, P = 0.068    assemblage structure (a) and assemblage composition (b) of invertebrate groups in the top 5 cm layer of plain sediment (control: OO), underneath conventional (@), and biodegradable (A) plastic bags.
+40. Included are Kruskal 2D stress values, multivariate dispersion, and PerMANOVA, goodness of fit (R"), pseudo-F and P values based on 9999 possible permutations.
+41. Nematoda and C. capitata contributed the most to differences in assemblage structure of invertebrates under the bags compared to the controls (Supporting Information, Table $1).
+42. However, when considering assemblage composition (based on species presence/absence data alone), there were no significant differences between the controls and either type of bag (Figure 2b).
+43. Effects of Plastic Bags on Ecosystem Functioning.
+44. Chlorophyll-a, -b, and -c contents in the top ~0.5 cm surface layer of the sediment were measured to approximate potential primary production of the microphytobenthos.
+45. The chlorophyll-a content (g~' dry sediment) was significantly less (one-way ANOVA, Fy, = 15.67, P < 0.001) beneath plastic bags (Figure 3) compared to control plots, which had on average 2.12 and 1.74 fold more chlorophyll-a than beneath "biodegradable" and conventional bags, respectively.
+46. The chlorophyll-b content, however, was significantly greater (one-way ANOVA, Fy 7 = 11.69, P = <0.001) beneath both DOI: 10.1021/acs.est.5b00277 Environ.
+47. Sci. Technol. 2015, 49, 5380-5389  Environmental Science & Technology   350 ene e Fear HIS 67,P $0001 Control & 300 a Conventional £ eB
+48. [= Biodegradable 3 250 2 3 '® 200 D Ss aa § 150 F, a7 =11.88, P< 0.001 = 100 ———— £ R= 0.46 & Fy 97 =11.96, P< 0.001 baa S 50 = 3 baa i. 0
+49. a Chlorophyll -a Chlorophyll -b Chlorophyll -c Treatment without bags (control), underneath conventional and biodegradable plastic bags.
+50. Values are means + sem, n = 10.
+51. Included are ANOVA R, F, and P values with different letters indicating significant differences etween treatments at P < 0.05 based on separate Tukey tests.
+52. types of bags compared to within control plots (Figure 3), which had $.15 and 4.78 fold less chlorophyll-b compared to beneath biodegradable and conventional bags, respectively.
+53. The content of chlorophyll-c was also significantly different (one way ANOVA, F,,, = 11.88, P <0.001) between the treatments (Figure 3) but with an average 1.88 and 1.56 fold less chlorophyll-c present beneath biodegradable and conven tional bags respectively than in the control plots.
+54. Chlorophyll contents of the surface sediment did not significantly differ between the two types of bags; chlorophyll-a (one-way ANOVA, P = 0.571, TukeyHSD), chlorophyll-b (one-way ANOVA, P = 0.926, TukeyHSD), and chlorophyll-c (one-way ANOVA, P = 0.541, TukeyHSD).
+55. The chlorophyll content on the surfaces of the bags did, owever, differ.
+56. Conventional bags had more algal biomass on the surface than the biodegradable bags (personal observation, Supporting Information, Figure $2), which corresponded to greater concentrations of chlorophyll (Figure 4).
+57. The surface of conventional bags contained more (1.62 fold) chlorophyll-a      20.0 1,,= 8.88, P< 0.001 5
+58. Conventional 175 & Biodegradable "e 15.0 5 12 7.55,P <0.001 2 = 125 = 2 5 100 tiga 2.38, P= 0.036 8 2 75 a 2 oo = 50 5 25 0.0 + : T Chlorophyll -a Chlorophyll -b Chlorophyll -c
+59. Treatment conventional and biodegradable plastic bags.
+60. Values are means + sem, n = 10.
+61. Included are separate results of two-tailed Welch's t tests between the bag types.
+62. 5384 than the biodegradable bags (t test, tio.g4 = 2.37, P = 0.036), similarly the chlorophyll-b content was an average 43 fold greater on the surface of the conventional bags compared to the biodegradable bags (f test, ty).
+63. = 8.88, P < 0.001), and the chlorophyll-c content was an average of 11 times greater on the conventional than the biodegradable bags (t test, ty; = 7.65, P < 0.001).
+64. The redox potential (E,) of the top sediment layer was negative under both the biodegradable and conventional bags, while it was positive in the control plots (Table 2).
+65. The amount of organic matter in the top sediment layer as measured by loss on ignition (Lol) was significantly less for sediment under either type of bag compared to the controls (One-way ANOVA, F,,, 12.31, P < 0.001), with approximately 13% less organic matter beneath bags.
+66. At 4 cm beneath the surface of the sediment the concentrations of organic matter was similar under the two types of bags and the controls (Table 2).
+67. The grain size distribution did not significantly differ among treatments (One-way ANOVA, Fy = 1.62, P = 0.273), and the average grain size was 44.98 (43.93), 41.02 (+2.13), and 34.66 (+3.62) for control, biodegradable, and conventional treatments, respectively.
+68. Ammonium (NH,*) and _ biogenic silicate (Si(OH),) pools within the first 4 cm of sediment were significantly different, with less NH," in the control pore-water compared to that under the biodegradable bags.
+69. The biodegradable and conventional bags had similar amounts of NH, in the underlying pore-water.
+70. Similarly, the total amount of Si(OH), under the biodegradable bags was greater compared to sediment in the control plots and under conventional bags, with the two types of bags having similar amounts of Si(OH), in the pore-water (Table 2).
+71. The concentration of NH,* was significantly different between the treatments (One-way ANOVA, F7 = 11.96, P < 0.001) at 4 cm depth, with NH,* being less in the control plots compared to beneath biodegradable and conventional bags.
+72. Similarly, the concen trations of Si(OH), associated with the bags were greater in surface waters (One-way ANOVA, F527 = 3.77, P = 0.036) and at 4 cm depth (One-way ANOVA, F,,, = 6.93, P = 0.004) compared to the control, albeit only significant for biodegrad able bags (Figure 5).
+73. Impacts of Plastic Debris on Benthic Infauna and Ecosystem Functioning.
+74. In the current study, within less than 9 weeks, the presence of plastic debris in the intertidal significantly altered the community structure and abundance of sediment infauna, reducing the number of individuals of invertebrates living within the sediment.
+75. The presence of both types of bags caused the assemblages to differ from those in control treatments.
+76. This was driven by differences in relative abundances, rather than to changes to the types of taxa, the number of species, or change in the relative dominance of individual taxa.
+77. The nMDS ordination showing assemblage composition suggests that the presence of plastic bags increased multivariate variance, which was confirmed by the beta-disp routine testing for homogeneity of variance.
+78. This indicates that variability in the infaunal composition among replicates from the bag treatments was greater than in the control plots.
+79. The addition of plastic bags, whether biodegradable or conventional, created anoxic conditions in the sediment, as indicated by reduced redox potentials and increased ammo DOI: 10.1021/acs.est.5b00277 Environ.
+80. Sci. Technol. 2015, 49, 5380-5389  Environmental Science & Technology | Article | and Inventory (Inv. zmol dm~) of Ammonium (NH,") and Silica (Si(OH),) in Plain Sediment (Control), Underneath Conventional Bags (Conv) and Underneath Biodegradable Bags (Bio)* treatment Lol,,, (%) Lolbottom (9%) control 20.3
+81. + 0.3* conv 19.1 + 01° 19.9 + 0.5* bio 19.1 + 0.2 19.1
+82. R= 0.48 P= 0.281 R?
+83. = 0.09   E, (mV) Inv.
+84. Inv.
+85. SiOH, 33.6 + 6.7° 52.6 + 5.79 58.3 + 6.2* —S1.5 + 21.5" 114.5 + 30.7" 75.4 + 11.0" —48.5 + 10.9% 149.7 + 20.2" 91.2 + 67° Fy) = 11.15, Fyy7 = $.25, Fy, = 4.01, P= 0.002"
+86. .012 P = 0.030 R?
+87. = 0.65 R?
+88. = 0.28 R?
+89. = 0.23
+90. "Values are means + standard error of the means, n = 10.
+91. Different superscript letters indicate significant differences between treatments at a = 0.05 based on separate Tukey tests.
+92. Degrees of freedom differ from other tests because five replicates were measured instead of ten.
+93. 20 40 60 80 100 120 140    sediment-water interface    26, P=0.124 F=11.96, P<0.001   Depth (cm) © b) Si(OH), (umol dm') 0 10 20 30 40 50 60 70 1 .
+94. L F    Sediment-water interface F=0.94, -2cm F=0.93, -4cm F=6.93.
+95. P=0.004 Depth (cm) ng 5 and surface water in depth of plain sediment (control: 11), underneath conventional (@) and biodegradable (A) plastic bags.
+96. Values are means + sem, n = 10.
+97. Included are ANOVA F (df, =2, df, = 27) and P values for each depth.
+98. nium pools.
+99. The physical effect of sealing the surface and effectively blocking oxygen diffusion into the sediment probably contributed to the reduction in redox potential, while the reduced oxygen availability at the water—sediment interface likely accounted for the decrease in infaunal abundances.
+100. Similar results, including decreases in biomass/abundances of infauna, have been found as a result of hypoxia and anoxia due to eutrophication.*°
+101. Furthermore, decreased amounts of organic matter in the sediment beneath the bags indicates that the bags acted as a barrier, preventing organic matter deposition into the sediment.
+102. It is likely that mineralization (ie, the decomposition of organic matter resulting in the release of inorganic nutrients) beneath bags depleted the pre existing stores of organic matter in the surface layer, and this is reflected in the increase of ammonium beneath the bags.
+103. Biogenic silicate, however, is not affected by redox reactions (e.g., mineralization).
+104. Given that the physical barrier created by the presence of the bags impaired transport across the sediment—water interface, a slight accumulation of silicate within the sediment is not surprising.
+105. On the contrary, because ammonium is the byproduct of organic matter mineralization, both this and impaired transport are likely to have led to its accumulation beneath the bags.
+106. Besides covering the sediment and directly affecting the benthic assemblages, indirect effects due to asphyxiation such as changes in redox potential may have led to altered benthic assemblages.
+107. Overall, most species that were found inhabiting the sediment are tolerant to fluctuations in environmental conditions, as are many intertidal organisms.
+108. For example, C. capitata is an opportunistic polychaete often used as an indicator species for other types of pollution such as organic enrichment and nitrogenous runoff.
+109. *°
+110. Given that organisms in the intertidal are usually very tolerant of fluctuating environ mental conditions," the results of this experiment may give a conservative estimate of the effects of plastic debris when compared to other, less resilient, assemblages.
+111. For example, the responses noted here in an intertidal marsh could be more pronounced in subtidal coral reefs and deep sea sediments, which are also known to accumulate litter.
+112. °*°"
+113. Despite being resilient against environmental pollution, the abundance of C. capitata and other organisms was substantially reduced under both the biodegradable and conventional bags compared to control plots of sediment.
+114. It is possible that other, more sensitive groups of invertebrates would be even more profoundly affected by plastic debris.
+115. The most reduced taxa were deposit feeders, including C. capitata, H. ulvae, and individuals belonging to the Nematoda.
+116. Deposit feeders, and indeed any organisms which feed or live within the sediment, are more likely to be negatively affected by plastic debris due to the sealing of the sediment surface, reducing light, algal growth, and oxygen penetration.
+117. Evidence in the literature of assemblage level effects of plastic debris is very scarce, and to date, only two studies have considered these impacts in benthic habitats''~** and neither evaluated the effect of the debris on the physio-chemical characteristics of the habitat.
+118. In Ambon Bay, Indonesia, Uneputty and Evans" compared areas where litter had already 5385 DOI: 10.1021/acs.est.5b00277 Environ.
+119. Sci. Technol. 2015, 49, 5380-5389  Environmental Science & Technology | Article | accumulated with areas free from litter.
+120. They found that, underneath plastic debris, there was an increase in the abundance of meiofauna, decreased diatom abundances
+121. but no changes to macrofauna.
+122. However, it was not clear how long the litter had been present, nor how similar the areas of seabed were prior to its arrival.
+123. In a long-term (one-year), manipulative experiment the addition of plastic and glass debris to a subtidal sediment habitat resulted in an increase in the total abundance and the number of species of megafauna compared to control sediments.
+124. However, this was mainly as a consequence of migration of mobile species, such as hermit crabs, or settlement of invertebrates, such as ascidians and sponges on the hard substratum offered by the litter."
+125. Subsequent examination of sediments from the same experiment found altered assemblage compositions, driven by an increase in opportunistic macro faunal species, associated with experimentally added plastic and glass bottles.
+126. "* Contrary to this previous study, the current short-term experiment found no changes in the number of species but did find a dramatic decrease in the abundances of several macrofaunal species beneath plastic debris.
+127. The plastic debris used by Katsaneakiset et al.'?
+128. and Akoumianaki et al."* was mostly bottles and jars, whereas the current study used plastic bags.
+129. Perhaps the effect of flat plastic sheeting is more pronounced than three-dimensional debris, in that sheeting smothers larger areas of the sediment, sealing off the sediment— water interface from the water column above.
+130. This may have prevented settlement of some infaunal species which depend on a planktonic larval stage before settling and recruiting.
+131. In addition, many of the changes described by Katsaneakiset et al.* related to colonisation of the plastic by epifauna and migration of mobile species.
+132. Colonisation by epifauna is a longer term process and was not considered in the present study.
+133. C. maenas was, however, found under several of the bags and not in the control plots.
+134. Similarly, other artificial structures associated with fisheries, such as tiles, have been found to increase crab abundances due to the provision of refugia.
+135. °
+136. Despite this, the majority of organisms found in the present study were less abundant beneath plastic bags than in uncovered control plots.
+137. Apart from the physical sealing effect of the plastic, our study showed that several physicochemical characteristics were altered beneath the plastic bags, and these may have indirectly accounted for the reduction in the abundances of benthic infauna.
+138. There was a reduction in organic matter and chlorophyll-a and -c beneath the bags indicating that there had been a decrease in the biomass of primary producers in the sediment, such as microphytobenthos.*
+139. " A reduction in microphytobenthos means that there is less food available to higher trophic level organisms, and this could also account for the decrease in the biomass of invertebrates in the sediment.
+140. Microphytobenthos play an important role in system metabolism within shallow coastal bays, and changes in autotrophic community structure will ultimately affect nutrient turnover in the system and could have cascading effects for the food-web.
+141. It is likely, for example, that the reduction of photosynthetic biomass beneath plastic bags led to reduced inputs of organic matter that serve as food sources for the deposit feeding detritivores, including surface and subsurface feeding groups.
+142. Indeed, other studies found reductions in macro-invertebrate infaunal abundances as a result of reduced microphytobenthic algae due to shading.*'"
+143. In addition, since microphytobenthos strongly sediment organic matter quality and quantity,* influences this likely 5386 accounts for the reduction in organic matter content in the surface sediment beneath bags.
+144. In fact, the ability of plastic sheeting to smother the underlying sediment has been utilized as a method, called "plasticulture", to reduce weed growth by blocking out light in terrestrial agricultural practices.*
+145. Similarly, the reduction in light penetration caused by the bags during our experiment likely accounts for the reduction in chlorophyll-a and -c beneath the bags compared to the control sediment.
+146. Light attenuation is one of the principal limiting factors of primary productivity of microphytobenthos in shallow and intertidal estuarine habitats.
+147. *°*° Some microphytobenthic species, however, show evidence of photoacclimation to low light environments and are not affected by shading.'
+148. Chlorophyll-b concentrations were greater beneath plastic bags compared to bare sediment.
+149. Many green photosynthetic organisms contain chlorophyll-b as an accessory pigment, but there are microphytoplankton which have their light harvesting complex based on chlorophyll-b, and in this way, chlorophyll-b may indicate the presence of algae from the classes Chlorophyceae and/or Euglenophyceae.*
+150. "** Therefore, the increase in chlorophyll-b may indicate a change in types of microalgae dominating the sediment, but further work would be required to confirm this.
+151. Despite a lack of information on specific photosynthetic species, these results suggest that the algal community has been altered or, at least the amount of photosynthetic pigment was altered, due to the presence of the bags.
+152. Interestingly biodegradable plastic bags had substantially less chlorophyll on their surfaces than the conventional bags did, suggesting that the type of plastic influenced the recruitment and/or persistence of algae on the surface.
+153. Over time, this may result in differential effects, but this hypothesis would require further investigation.
+154. Aloy et al.° found a reduction in grazing by gastropods over conventional plastic bags compared to rock.
+155. It is possible that grazing is differentially affected by different types of plastic, thus accounting for the differences in algal biomass on biodegradable and conventional bags found in the current study.
+156. Aside from the differences in chlorophyll concentrations, our short-term study showed that the biodegradable and conven tional bags caused almost identical changes to invertebrate abundance and ecosystem functioning and that effects on assemblages occur much more rapidly than any meaningful degradation of the plastic itself; indeed we also demonstrated that, in the intertidal, breakdown of the biodegradable plastic was slower than would be expected according to EN 13432.
+157. Collectively, the potential for rapid effects coupled with the persistence of plastic debris, including plastics described as "compostable" or "biodegradable",'* emphasizes the need to focus on reducing and reusing plastic packaging and subsequently recycling, rather than designing materials with enhanced degradation which could lead to inappropriate, indiscriminate disposal and further accumulation in marine environments and/or compromise recycling streams.
+158. °° More over, it is possible that, when certain biodegradable plastics do break down into smaller pieces, their effects could still be deleterious.
+159. For example, in a laboratory study by Doering et al,°!
+160. using powdered biodegradable plastics, including a bacterially derived polyester and ethylene vinyl alcohol and comparing to cornstarch as a control, it was found that normal nutrient exchange patterns were altered by addition of the plastic, including an increase of ammonia fluxes.
+161. They hypothesized that the high biological oxygen demand resulting DOI: 10.1021/acs.est.5b00277 Environ.
+162. Sci. Technol. 2015, 49, 5380-5389  Environmental Science & Technology | Article | from decomposition of such materials could lead to the development of anoxia in the sediment.
+163. Similarly, the physical presence of fragments of conventional plastics have been shown to reduce the ability of marine worms to store energy," and there are concerns about the potential for plastic fragments to transport and release contaminants.
+164. It is possible that fragments of biodegradable plastic could have similar effects to conventional types, accumulating organic and metal pollutants, leaching additives, and causing physical harm upon ingestion, but this is yet to be examined.
+165. Wider Implications of Plastic Litter and Recom mendations.
+166. The impacts of dis
